@@ -1,10 +1,15 @@
-import Register from "./components/Register";
+
+
+
+
+
 
 function App() {
   return (
     <div>
-      
-      <Register />
+      App Component
+     
+     
     </div>
   );
 }
